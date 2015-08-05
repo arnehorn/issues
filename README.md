@@ -3,7 +3,7 @@
 This is the issue tracker for [GO.SU](http://go.su)
 
 
-- [Check if issue exists]((https://github.com/be-gosu/issues/issues)
+- [Check if issue exists](https://github.com/be-gosu/issues/issues)
 - Create issue with meaningful title AND description
   - what is happening
   - where is it happening
